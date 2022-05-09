@@ -7,15 +7,20 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 🌟
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+>I´m 20 years old
+>Technologist in automatic control and instrumentation
+>Studying a Software Development Engineering
+>Learning in Courses about object-oriented programming 
+>I love to create and program robots 👀
+>I´m very interested in medical and artificial intelligence topics.
+>I already handle some programing languages like: 
+- C 
+- C++ 
+- Python 
+- html & css
+- JavaScript
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+>My favorite phrase: 
+"Sometimes it's not about strength, sometimes it's about bravery!"
